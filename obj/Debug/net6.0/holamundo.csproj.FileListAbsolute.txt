@@ -1,0 +1,15 @@
+C:\Users\matia\source\repos\holamundo\bin\Debug\net6.0\holamundo.exe
+C:\Users\matia\source\repos\holamundo\bin\Debug\net6.0\holamundo.deps.json
+C:\Users\matia\source\repos\holamundo\bin\Debug\net6.0\holamundo.runtimeconfig.json
+C:\Users\matia\source\repos\holamundo\bin\Debug\net6.0\holamundo.dll
+C:\Users\matia\source\repos\holamundo\bin\Debug\net6.0\holamundo.pdb
+C:\Users\matia\source\repos\holamundo\obj\Debug\net6.0\holamundo.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\holamundo\obj\Debug\net6.0\holamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\source\repos\holamundo\obj\Debug\net6.0\holamundo.AssemblyInfoInputs.cache
+C:\Users\matia\source\repos\holamundo\obj\Debug\net6.0\holamundo.AssemblyInfo.cs
+C:\Users\matia\source\repos\holamundo\obj\Debug\net6.0\holamundo.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\holamundo\obj\Debug\net6.0\holamundo.dll
+C:\Users\matia\source\repos\holamundo\obj\Debug\net6.0\refint\holamundo.dll
+C:\Users\matia\source\repos\holamundo\obj\Debug\net6.0\holamundo.pdb
+C:\Users\matia\source\repos\holamundo\obj\Debug\net6.0\holamundo.genruntimeconfig.cache
+C:\Users\matia\source\repos\holamundo\obj\Debug\net6.0\ref\holamundo.dll
